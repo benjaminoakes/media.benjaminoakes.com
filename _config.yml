@@ -1,0 +1,4 @@
+exclude:
+  - deploy
+  - docker-compose.yml
+  - Dockerfile
